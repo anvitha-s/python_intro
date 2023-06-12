@@ -21,7 +21,7 @@ If the web browser does not open automatically, copy/paste one of the URLs start
 
 ## Download the iPython notebooks for the workshop
 
-- Visit [https://github.com/mcahn/Intro-to-Python](https://github.com/anvitha-s/python_intro)
+- Visit https://github.com/anvitha-s/python_intro
 
 - Click on the green Code button and choose Download ZIP from the menu (and save the downloaded file, if asked what to do with it).
 
